@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.btn{
+    width: 192px;
+height: 82px;
+background-color: #F1A900;
+border: none;
+font-size: 20px;
+}
+select{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+   color: aliceblue;
+   background-color: black;
+   border-radius: none;    
+
+}
+header .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head-r{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+header{
+    background-color: black;
+}
+header i{
+    color: #F1A900;
+    font-size: 24px;
+}
+.aaa{
+    background-color: #222222;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    gap: 108px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+
+.hero{
+    padding: 349px 0 142px;
+    background-image: url(./img/image\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn3{
+    width: 192px;
+height: 82px;
+background-color: black;
+border: none;
+font-size: 20px;
+color: aliceblue;
+}
+h1{
+    background-color: #F1A90054;
+    font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: aliceblue;
+
+}
+.btno{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+
+
+footer{
+    background-color: black;
+
+}
+footer .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+i{
+    color: aliceblue;
+}
+.fg{
+    display: flex;
+    gap: 24px;
+}
